@@ -122,6 +122,8 @@ through an intuitive and scalable user interface.
 # 👥 Roles
 ## User
 
+![SurveyLand on desktop, tablet and mobile](https://raw.githubusercontent.com/SaharMahmoudDev/SaharMahmoudDev.github.io/main/images/surveyland-devices.webp)
+
 Can:
 
 - Create surveys
