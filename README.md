@@ -4,6 +4,8 @@ A modern and scalable frontend application for SurveyLand, a platform that enabl
 
 Built with Next.js, TypeScript, and a modular feature-based architecture, the application focuses on performance, maintainability, accessibility, and a smooth user experience
 
+![SurveyLand on desktop, tablet and mobile](https://raw.githubusercontent.com/SaharMahmoudDev/SaharMahmoudDev.github.io/main/images/surveyland-devices.webp)
+
 ---------
 
 ## Installation
@@ -121,8 +123,6 @@ through an intuitive and scalable user interface.
 
 # 👥 Roles
 ## User
-
-![SurveyLand on desktop, tablet and mobile](https://raw.githubusercontent.com/SaharMahmoudDev/SaharMahmoudDev.github.io/main/images/surveyland-devices.webp)
 
 Can:
 
